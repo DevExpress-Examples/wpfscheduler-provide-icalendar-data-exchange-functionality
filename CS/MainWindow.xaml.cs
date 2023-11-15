@@ -3,9 +3,8 @@ using Microsoft.Win32;
 using System.IO;
 using System.Windows;
 
-namespace WpfApplication1
-{
-    public partial class MainWindow : DevExpress.Xpf.Core.DXWindow {
+namespace WpfApplication1 {
+    public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
         }
@@ -67,7 +66,6 @@ namespace WpfApplication1
             exporter.Export(stream);
         }
         #endregion #Export
-
 
     }
 }
