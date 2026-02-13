@@ -19,7 +19,7 @@ This example demonstrates how to implement the ICalendar support in the [Schedul
 * [ICalendarExporter](https://docs.devexpress.com/WPF/DevExpress.Xpf.Scheduling.iCalendar.ICalendarExporter)
 * [ICalendarImporter](https://docs.devexpress.com/WPF/DevExpress.Xpf.Scheduling.iCalendar.ICalendarImporter)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpfscheduler-provide-icalendar-data-exchange-functionality&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpfscheduler-provide-icalendar-data-exchange-functionality&~~~was_helpful=no)
 
